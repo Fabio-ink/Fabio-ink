@@ -1,15 +1,52 @@
+# 👋 Hi, I'm Fábio!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/fábio Augusto Prada Alves](https://www.linkedin.com/in/f%C3%A1bio-augusto-prada-alves-238b55325/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fabiopradaa@gmail.com) 
+Welcome to my GitHub profile!  
+I'm a **4th-semester Computer Science student** with a passion for technology, currently working in the TECH department at TOTAL FOR as a **Technical Support professional**.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fabio-ink&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fabio-ink&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-ink&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
+
+- 🎓 Exploring the world of **Back-End Development** and just starting my journey in **Database Administration (DBA)**.
+- 💻 Main stack: **Java** for back-end, now venturing into **React** for front-end.
+- 🧠 I love turning every error into a mini learning project — curiosity drives my growth!
+- 🤝 Team player and fast learner, always eager to dive into new challenges and figure out how things work.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Fabio-ink&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌟 Featured Projects
+
+### [programming-fundamentals](https://github.com/Fabio-ink/programming-fundamentals)
+> My journey from the very start of learning Java — documenting every step, challenge, and solution along the way!
+
+### [serve-me](https://github.com/vitorrenansd/serve-me)
+> Capstone project (co-developed): An electronic order management system for restaurants and snack bars.  
+> - **Customers:** Place and track orders easily.
+> - **Managers:** Gain insights, track orders, and optimize operations.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Java, JavaScript
+- **Frameworks & Libraries:** React (beginner), Spring Boot (learning), Node.js (basics)
+- **Databases:** MySQL, PostgreSQL (learning DBA concepts)
+- **Other:** Git & GitHub, Linux basics, Technical Support
+
+---
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/f%C3%A1bio-augusto-prada-alves-238b55325/)
+
+---
+
+## 📊 GitHub Stats
+
+![Fabio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fabio-ink&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-ink&layout=compact&theme=radical)
+
+---
+
+_“I tend to turn every error into a mini learning project.”_
+
+Thanks for stopping by! 🚀
