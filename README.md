@@ -5,10 +5,10 @@ I'm a **4th-semester Computer Science student** with a passion for technology, c
 
 ## About Me
 
-- 🎓 Exploring the world of **Back-End Development** and just starting my journey in **Database Administration (DBA)**.
-- 💻 Main stack: **Java** for back-end, now venturing into **React** for front-end.
-- 🧠 I love turning every error into a mini learning project — curiosity drives my growth!
-- 🤝 Team player and fast learner, always eager to dive into new challenges and figure out how things work.
+- Exploring the world of **Back-End Development** and just starting my journey in **Database Administration (DBA)**.
+- Main stack: **Java** for back-end, now venturing into **React** for front-end.
+- I love turning every error into a mini learning project — curiosity drives my growth!
+- Team player and fast learner, always eager to dive into new challenges and figure out how things work.
 
 ---
 
