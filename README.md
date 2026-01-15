@@ -17,17 +17,21 @@ I'm a **4th-semester Computer Science student** with a passion for technology, c
 ### [programming-fundamentals](https://github.com/Fabio-ink/programming-fundamentals)
 > My journey from the very start of learning Java — documenting every step, challenge, and solution along the way!
 
-### [serve-me](https://github.com/vitorrenansd/serve-me)
-> Capstone project (co-developed): An electronic order management system for restaurants and snack bars.  
-> - **Customers:** Place and track orders easily.
-> - **Managers:** Gain insights, track orders, and optimize operations.
+### [personal-finance-system](https://github.com/Fabio-ink/personal-finance-system)
+> A robust full-stack application for managing personal finances, built to control transactions, credit cards, and monthly budgets.
+
+> Tech Stack: Java 21, Spring Boot 3, React (Vite), PostgreSQL, and Docker.
+
+> Key Features: Real-time balance tracking, credit card management with automatic installments, monthly planning limits, and interactive dashboards using Recharts.
+
+> Security: Secured with Spring Security and JWT Authentication.
 
 ---
 
 ## Skills & Tools
 
 - **Languages:** Java, JavaScript
-- **Frameworks & Libraries:** React (beginner), Spring Boot (learning), Node.js (basics)
+- **Frameworks & Libraries:** React (beginner), Spring Boot (beginner), Node.js (basics)
 - **Databases:** MySQL, PostgreSQL (learning DBA concepts)
 - **Other:** Git & GitHub, Linux basics, Technical Support
 
